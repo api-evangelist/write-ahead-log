@@ -29,6 +29,10 @@ type: Index
 url: https://en.wikipedia.org/wiki/Write-ahead_logging
 tags:
   - Data Engineering
+  - Database
+  - Write Ahead Log
+tags_raw:
+  - Data Engineering
   - Databases
   - Write Ahead Log
 created: '2025'
